@@ -1,0 +1,30 @@
+{
+  "name": "cursored",
+  "version": "1.0.0",
+  "description": "Curso En base a una Red social manejo basico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresCabrera1/CursoRed.git"
+  },
+  "author": "Copernico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresCabrera1/CursoRed/issues"
+  },
+  "homepage": "https://github.com/AndresCabrera1/CursoRed#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.16.4",
+    "jwt-simple": "^0.5.5",
+    "mongoose": "^5.4.15"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
