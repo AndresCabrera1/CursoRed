@@ -22,7 +22,7 @@ objeto de javascript totalmente usable por javascript. este es un parseador que 
 **6. Jwt-simple:** nos permite trabajar con Tokens gestionar token, comprobar, crear.
 **/ *npm install jwt-simple --save* /** :kissing_heart: 
 
-*1*7. Moment:** permite trabajar con fechas, generar fechas y momentos del timepo.
+**7. Moment:** permite trabajar con fechas, generar fechas y momentos del timepo.
 **/ *npm install moment --save* /**
 
 **8. Nodemon:** este monitorea el codigo para que cada vez que se haga un cambio este baje y suba el Servidor de maneral automatica para ejecutarlo solo en la 'Rama develop' se debe instalar con el comando
