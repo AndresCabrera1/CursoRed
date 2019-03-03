@@ -1,6 +1,6 @@
 'use strict'
 /*
-  Creando modelos con mongoose
+  Creando modelos con mongoose para la Bd
  */
 var mongoose = require('mongoose'); // se llama la dependencia de mongoose
 
